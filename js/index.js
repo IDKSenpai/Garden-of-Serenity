@@ -1,3 +1,10 @@
+import { reportWebVitals } from "next/web-vitals";
+
+function reportMetric(metric) {
+  console.log(metric);
+}
+
+reportWebVitals(reportMetric);
 document.addEventListener("contextmenu", function (e) {
   e.preventDefault();
 });
