@@ -1,2 +1,2 @@
-ហាមលួចចម្លងដោយគ្មានការអនុញ្ញាត
-Do not use without permission
+ហាមយករូបភាព (logo.png) ទៅប្រើប្រាស់ដោយគ្មានការអនុញ្ញាត​
+Do not use our (logo.png) without permission
